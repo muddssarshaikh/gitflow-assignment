@@ -1,7 +1,7 @@
 master branch changes 
 develop changes 
-
+<<<<<<< HEAD
 feature1 branches chages
-
+=======
 feature2 changes added 
-
+>>>>>>> feature2
